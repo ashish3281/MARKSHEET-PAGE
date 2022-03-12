@@ -2,11 +2,10 @@
 Here,I am creating my btech second semester result .
 To make this marksheet ,I am using table property ,headings,style and paragraph.
 Most important property in this project is table property.
-TABLE PROPERTY
---------------
 
-<table> --	Defines a table
-<th> -- Defines a header cell in a table
+
+<table> --	Defines a table.
+<th> -- Defines a header cell in a table.
 <tr> --	Defines a row in a table
 <td> --	Defines a cell in a table
 <caption> --	Defines a table caption
