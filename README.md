@@ -4,7 +4,7 @@ To make this marksheet ,I am using table property ,headings,style and paragraph.
 Most important property in this project is table property.
 
 
-<table> --	Defines a table.
+</p><table> --	Defines a table.
 <th> -- Defines a header cell in a table.
 <tr> --	Defines a row in a table
 <td> --	Defines a cell in a table
